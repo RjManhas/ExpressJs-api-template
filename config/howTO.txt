@@ -1,0 +1,11 @@
+HEY 
+
+So you want to have a database URL... welp, the way THIS code works is that you need to create a nodejs module IE
+
+module.exports = {
+    "url": ""
+}
+
+Set the value of the url to your mongoDB url. 
+
+name the file db.js
