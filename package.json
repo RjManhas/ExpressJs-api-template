@@ -1,0 +1,22 @@
+{
+  "name": "expressjs-api-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RjManhas/ExpressJs-api-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RjManhas/ExpressJs-api-template/issues"
+  },
+  "homepage": "https://github.com/RjManhas/ExpressJs-api-template#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
